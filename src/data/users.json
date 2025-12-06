@@ -1,0 +1,26 @@
+{
+  "currentId": 4,
+  "users": [
+    {
+      "id": 1,
+      "name": "Roxana",
+      "email": "rox@gmail.com",
+      "phone": "48519001522",
+      "address": "Guanajuato"
+    },
+    {
+      "id": 2,
+      "name": "Julia",
+      "email": "julia@gmail.com",
+      "phone": "4771225412",
+      "address": "Toluca"
+    },
+    {
+      "id": 3,
+      "name": "Mauro",
+      "email": "mau@gmail.com",
+      "phone": "4687812563",
+      "address": "Puebla 13"
+    }
+  ]
+}
