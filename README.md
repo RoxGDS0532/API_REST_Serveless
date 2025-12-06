@@ -10,7 +10,7 @@ Los datos se almacenan en memoria en un archivo local JSON, y la API está const
 
 ```bash
 git clone https://github.com/RoxGDS0532/API_REST_Serveless.git
-cd api-user
+cd API_REST_Serveless
 ```
 
 2. Instalar las dependencias:
